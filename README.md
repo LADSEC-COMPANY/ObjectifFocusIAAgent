@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Modern IA Agent — local planner and file agent powered by Ollama" width="100%" />
+
 # Modern IA Agent
 
 **Your goals. Your files. Your GPU.**  
