@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local agent state (session data — not committed)
+memory/conversation.json
+memory/tool_results.json
+memory/notes.json
+memory/tasks.json
+
+# Temp files
+*.tmp
+*.log
