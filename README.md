@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Modern IA Agent — local planner and file agent powered by Ollama" width="100%" />
+<img src="assets/banner.png" alt="Modern IA Agent — local planner and file agent powered by LADSEC" width="100%" />
 
 # Modern IA Agent
 
 **Your goals. Your files. Your GPU.**  
-A **local-first** AI agent that **plans**, **acts** on your filesystem, and **remembers**—powered by [Ollama](https://ollama.com/), with **no cloud LLM required**.
+An AI agent that **plans**, **acts** on your filesystem, and **remembers**—powered by [Ollama](https://ollama.com/), with **no cloud LLM required**.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-111111?style=flat)](https://ollama.com/)
